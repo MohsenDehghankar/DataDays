@@ -1,0 +1,23 @@
+-------------implement--------------
+preprocessing =>
+    numpy, pandas, sklearn
+
+regression, classification =>
+    skelearn
+    classify => (knn, svm, logistic)
+
+neural network =>
+    keras
+--------------tools-----------------
+clustering =>
+    k-means (sklearn)
+    dbscan (..)
+
+dimension reduction =>
+    PCA (sklearn) , ICA, .png , ...
+
+statistical tests =>
+    ...
+
+Reinforcement learning =>
+    تعامل با محیط
